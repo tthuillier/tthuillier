@@ -1,20 +1,15 @@
-### Hi there 👋
+### Welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" height="25"/> 
+<br>
 
-<a href="https://tryhackme.com/p/Chpa" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/>
-</a>
 
-<!--
-**tthuillier/tthuillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thibault Thuillier, 3rd year student at Epitech Paris. <br>
+Trying to improve my skills with my own projects and TryHackMe ! 
 
-Here are some ideas to get you started:
+## Languages & Tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Personal THM Profile
+<a href="https://tryhackme.com/p/Chpa" target="_blank"> <img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/> </a>
+
+
+## Feel free to contact me :
