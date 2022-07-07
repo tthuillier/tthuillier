@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://tryhackme.com/p/Chpa"><img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/></a>
+<a href="https://tryhackme.com/p/Chpa" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/></a>
 
 <!--
 **tthuillier/tthuillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
