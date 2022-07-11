@@ -26,7 +26,6 @@ Trying to improve my skills with my own projects and TryHackMe !
 ## Personal THM Profile
 <a href="https://tryhackme.com/p/Chpa" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/> </a>
 
-
 ## Feel free to contact me :
 <a href="https://linkedin.com/in/thibault-thuillier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibault-thuillier" height="30" width="40" /></a>
 
